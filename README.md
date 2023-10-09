@@ -1,1 +1,1 @@
-# MeriSKILL-Internship-Project12-Diabetics-Prediction
+# MeriSKILL-Internship-Project2-Diabetics-Prediction
